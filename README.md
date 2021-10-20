@@ -14,10 +14,11 @@ This is an internship project at KIT university with the following main purpose:
 
 **Overall test setup:**
 ![Overall_test_setup](https://user-images.githubusercontent.com/63096297/138184679-d918ad87-f123-4692-9914-ed213fd24f4a.jpg)
-![Overall test setup](https://github.com/PingCheng-Wei/Segway-Control/tree/main/assets/Overall_test_setup.jpg)
+
 
 **Playing around with Segway! :)**
-![Final Segway Test.mp4](https://github.com/PingCheng-Wei/Segway-Control/tree/main/assets/Final_Segway_Test.mp4)
+![Final Segway Real World Test](https://user-images.githubusercontent.com/63096297/138184775-c9bd8bac-0ec1-4727-b15d-27f62daf37b8.mp4)
+
 
 ### Using Timer class to control the blink of the LED, indicating that the Timer class is successful.
 ![Timer Control 1](https://github.com/PingCheng-Wei/Segway-Control/tree/main/assets/Timer_control-1.mp4)
