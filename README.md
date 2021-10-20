@@ -17,7 +17,10 @@ This is an internship project at KIT university with the following main purpose:
 
 
 **Playing around with Segway! :)**
-![Final Segway Real World Test](https://user-images.githubusercontent.com/63096297/138184775-c9bd8bac-0ec1-4727-b15d-27f62daf37b8.mp4)
+![Final Segway Real World Test](https://github.com/PingCheng-Wei/Segway-Control/tree/main/assets/Final_Segway_Test.gif)
+
+
+![Final Segway Real World Test](https://github.com/PingCheng-Wei/Segway-Control/tree/main/assets/Final_Segway_Test_big.gif)
 
 
 ### Using Timer class to control the blink of the LED, indicating that the Timer class is successful.
