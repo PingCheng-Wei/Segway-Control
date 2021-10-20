@@ -13,6 +13,7 @@ This is an internship project at KIT university with the following main purpose:
 
 
 **Overall test setup:**
+![Overall_test_setup](https://user-images.githubusercontent.com/63096297/138184679-d918ad87-f123-4692-9914-ed213fd24f4a.jpg)
 ![Overall test setup](https://github.com/PingCheng-Wei/Segway-Control/tree/main/assets/Overall_test_setup.jpg)
 
 **Playing around with Segway! :)**
