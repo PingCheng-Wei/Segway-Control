@@ -17,6 +17,10 @@ This is an internship project at KIT university with the following main purpose:
 
 
 **Playing around with Segway! :)**
+
+![5r7lze](https://user-images.githubusercontent.com/63096297/138186086-e225f0de-8d3c-4c2a-af8a-bcfbfdbf88c2.gif)
+
+
 ![Final_Segway_Test](https://user-images.githubusercontent.com/63096297/138185923-66472171-fc90-43e0-83d3-8d091f1150bf.gif)
 
 
