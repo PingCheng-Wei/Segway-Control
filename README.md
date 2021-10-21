@@ -22,8 +22,9 @@ This is an internship project at KIT university with the following main purpose:
 
 
 ### Using Timer class to control the blink of the LED, indicating that the Timer class is successful.
+
 ![Timer1](https://user-images.githubusercontent.com/63096297/138235217-5c421430-f81f-49d8-aa7b-c57d91a96c01.gif)
-![Timer2](https://user-images.githubusercontent.com/63096297/138235223-ea1e1c0a-157b-4823-8c8e-53d79a89d8b0.gif)
+![Timer2](https://user-images.githubusercontent.com/63096297/138236988-8191cae4-b304-4a68-a055-044b491a2ccc.gif)
 
 ![adc](https://user-images.githubusercontent.com/63096297/138234997-993bde5c-3783-4107-ae58-32706822783a.gif)
 
@@ -37,5 +38,6 @@ This is an internship project at KIT university with the following main purpose:
 
 ![PWM_full_power](https://user-images.githubusercontent.com/63096297/138235178-7d9eb4dd-be7b-4157-af18-00fc9a4718e4.gif)
 
-![Segway_Turning](https://user-images.githubusercontent.com/63096297/138235201-f9ad0c90-e176-4691-bbd9-4b144aa1029a.gif)
+![Segway_Turning](https://user-images.githubusercontent.com/63096297/138236901-5b6463d5-a3a4-4e85-9289-2fd694def320.gif)
+
 
